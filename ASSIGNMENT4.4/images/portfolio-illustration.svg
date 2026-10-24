@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio workspace illustration</title><desc id="desc">A laptop with code on its screen, a notebook, and a small plant.</desc>
+<rect width="800" height="620" rx="36" fill="#eaf0ff"/>
+<circle cx="660" cy="125" r="62" fill="#d3e0ff"/><circle cx="125" cy="475" r="70" fill="#d8e9df"/>
+<rect x="168" y="130" width="470" height="320" rx="22" fill="#142d4e"/>
+<rect x="190" y="153" width="426" height="274" rx="9" fill="#f8fbff"/>
+<rect x="190" y="153" width="426" height="36" rx="9" fill="#dbe6f8"/>
+<circle cx="211" cy="171" r="5" fill="#e17d7d"/><circle cx="230" cy="171" r="5" fill="#edc36b"/><circle cx="249" cy="171" r="5" fill="#72b99a"/>
+<rect x="220" y="215" width="130" height="12" rx="6" fill="#3267d6"/><rect x="220" y="241" width="250" height="10" rx="5" fill="#a6b8d4"/>
+<rect x="245" y="267" width="180" height="10" rx="5" fill="#8e9fba"/><rect x="220" y="293" width="220" height="10" rx="5" fill="#3267d6"/>
+<rect x="245" y="319" width="285" height="10" rx="5" fill="#a6b8d4"/><rect x="220" y="345" width="160" height="10" rx="5" fill="#8e9fba"/>
+<path d="M140 450 H666 L713 492 Q717 503 699 506 H104 Q86 503 91 492 Z" fill="#8ca1bf"/>
+<rect x="323" y="464" width="155" height="9" rx="4" fill="#6f84a4"/>
+<g transform="translate(540 370) rotate(7)"><rect width="148" height="170" rx="9" fill="#fff" stroke="#c5d3e8" stroke-width="4"/><path d="M22 38 H122 M22 60 H122 M22 82 H105 M22 104 H118 M22 126 H92" stroke="#9db0cb" stroke-width="6" stroke-linecap="round"/></g>
+<g transform="translate(70 340)"><path d="M45 115 Q-2 88 15 42 Q54 54 52 94 Q64 35 105 27 Q112 79 62 105" fill="#4d9b78"/><path d="M52 115 Q45 67 15 42 M52 112 Q75 62 105 27" fill="none" stroke="#2d7656" stroke-width="5"/><path d="M18 115 H93 L83 178 H29 Z" fill="#d88962"/><ellipse cx="55" cy="115" rx="38" ry="10" fill="#edaa83"/></g>
+<text x="400" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#142d4e">Learn • Build • Share</text>
+</svg>
